@@ -1,23 +1,5 @@
 # 📊 Análise Exploratória de Dados com YData Profiling
 
-<img width="2085" height="1536" alt="07_resumo_negocio" src="https://github.com/user-attachments/assets/155ec520-16d3-4edb-8121-ce4b329ded96" />
-
-
-<img width="1785" height="732" alt="06_valores_ausentes" src="https://github.com/user-attachments/assets/4b4f2040-5b7e-47f8-9234-e8ea6156d4ed" />
-
-<img width="1702" height="1469" alt="04_correlacoes" src="https://github.com/user-attachments/assets/e77509e2-2f4f-4e7a-a46f-a96a765a45e8" />
-<img width="2050" height="580" alt="01_overview" src="https://github.com/user-attachments/assets/71be07fd-dfd9-4ebe-b02f-02f3864c13bd" />
-
-
-<img width="2086" height="1229" alt="03_distribuicoes_categoricas" src="https://github.com/user-attachments/assets/0cb4f383-3590-4b02-87e4-c7a7e24b82b8" />
-<img width="2083" height="1841" alt="02_distribuicoes_numericas" src="https://github.com/user-attachments/assets/3c499041-bff3-4df5-995a-292298502136" />
-
-<img width="1783" height="1533" alt="05_interacoes" src="https://github.com/user-attachments/assets/130ab796-2737-4705-a7b2-c3618036c7b7" />
-
-
-
-
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -97,7 +79,7 @@ Gerar um relatório completo e automatizado de EDA que inclui:
 
 ### 1️⃣ Overview Geral
 
-![Overview](imagens/01_overview.png)
+![Overview](imagens_github/01_overview.png)
 
 O YData Profiling identifica automaticamente:
 - **16 variáveis** analisadas
@@ -109,7 +91,7 @@ O YData Profiling identifica automaticamente:
 
 ### 2️⃣ Distribuições Numéricas
 
-![Distribuições Numéricas](imagens/02_distribuicoes_numericas.png)
+![Distribuições Numéricas](imagens_github/02_distribuicoes_numericas.png)
 
 O relatório gera automaticamente histogramas para todas as variáveis numéricas, incluindo:
 - **Média** (linha vermelha tracejada)
@@ -131,7 +113,7 @@ O relatório gera automaticamente histogramas para todas as variáveis numérica
 
 ### 3️⃣ Variáveis Categóricas
 
-![Distribuições Categóricas](imagens/03_distribuicoes_categoricas.png)
+![Distribuições Categóricas](imagens_github/03_distribuicoes_categoricas.png)
 
 O YData Profiling analisa automaticamente a distribuição de cada variável categórica:
 
@@ -167,7 +149,7 @@ O YData Profiling analisa automaticamente a distribuição de cada variável cat
 
 ### 4️⃣ Matriz de Correlação
 
-![Correlações](imagens/04_correlacoes.png)
+![Correlações](imagens_github/04_correlacoes.png)
 
 O YData Profiling calcula automaticamente as correlações de Pearson entre todas as variáveis numéricas.
 
@@ -185,7 +167,7 @@ O YData Profiling calcula automaticamente as correlações de Pearson entre toda
 
 ### 5️⃣ Interações entre Variáveis
 
-![Interações](imagens/05_interacoes.png)
+![Interações](imagens_github/05_interacoes.png)
 
 Os gráficos de dispersão revelam:
 - **Sales vs Profit**: Correlação positiva forte (0.81)
@@ -197,7 +179,7 @@ Os gráficos de dispersão revelam:
 
 ### 6️⃣ Análise de Valores Ausentes
 
-![Valores Ausentes](imagens/06_valores_ausentes.png)
+![Valores Ausentes](imagens_github/06_valores_ausentes.png)
 
 | Variável | Ausentes | % |
 |----------|----------|---|
@@ -210,7 +192,7 @@ O YData Profiling identifica automaticamente valores ausentes e gera visualizaç
 
 ### 7️⃣ Resumo de Negócio
 
-![Resumo Negócio](imagens/07_resumo_negocio.png)
+![Resumo Negócio](imagens_github/07_resumo_negocio.png)
 
 #### Lucro por Segmento
 | Segmento | Lucro Total |
@@ -303,7 +285,7 @@ EDA-com-ydata-profiling/
 ├── Treinamento EDA estatistica descritiva .xls  # Dataset
 ├── relatorio_ydata_profiling.html         # Relatório HTML gerado
 │
-└── imagens/                               # Visualizações extraídas
+└── imagens_github/                        # Visualizações extraídas
     ├── 01_overview.png
     ├── 02_distribuicoes_numericas.png
     ├── 03_distribuicoes_categoricas.png
