@@ -1,17 +1,8 @@
 # 📊 Análise Exploratória de Dados com YData Profiling
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
-![YData Profiling](https://img.shields.io/badge/YData_Profiling-4.x-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas)
-![Status](https://img.shields.io/badge/Status-Completo-success?style=for-the-badge)
-
-**Análise Exploratória de Dados automatizada utilizando YData Profiling**  
 *Dataset: Vendas e Lucros por Segmento, País e Produto*
 
-[📈 Resultados](#-resultados) • [🔍 Alertas](#-alertas-detectados) • [📋 Dataset](#-sobre-o-dataset) • [🚀 Como Usar](#-como-executar)
-
+### Esse projeto foi construido com o intuito de demonstrar uma Análise exploratória utilizando uma ferramenta que se bem utilizada pode gerar economia de tempo de até 60% em seu projeto EDA, gerando análises exploratórias confiáveis e eficientes.
+Para acessar o projeto em sua plenitude e obter uma experiência surprendente acesse: https://jeffersondesenvolvedormaster.github.io/EDA-com-ydata-profiling/
 </div>
 
 ---
