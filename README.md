@@ -5,14 +5,6 @@
 Para acessar o projeto em sua plenitude e obter uma experiência surprendente acesse: https://jeffersondesenvolvedormaster.github.io/EDA-com-ydata-profiling/
 </div>
 
----
-
-## 📋 Sobre o Projeto
-
-Este projeto demonstra o poder da **Análise Exploratória de Dados (EDA) automatizada** utilizando a biblioteca **YData Profiling** (anteriormente conhecida como Pandas Profiling). 
-
-A análise foi realizada com **configurações padrão** - sem customizações ou filtros específicos - demonstrando o que a ferramenta oferece "out of the box" para uma análise completa de dados.
-
 ### 🎯 Objetivo
 
 Gerar um relatório completo e automatizado de EDA que inclui:
