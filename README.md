@@ -1,5 +1,23 @@
 # 📊 Análise Exploratória de Dados com YData Profiling
 
+<img width="2085" height="1536" alt="07_resumo_negocio" src="https://github.com/user-attachments/assets/155ec520-16d3-4edb-8121-ce4b329ded96" />
+
+
+<img width="1785" height="732" alt="06_valores_ausentes" src="https://github.com/user-attachments/assets/4b4f2040-5b7e-47f8-9234-e8ea6156d4ed" />
+
+<img width="1702" height="1469" alt="04_correlacoes" src="https://github.com/user-attachments/assets/e77509e2-2f4f-4e7a-a46f-a96a765a45e8" />
+<img width="2050" height="580" alt="01_overview" src="https://github.com/user-attachments/assets/71be07fd-dfd9-4ebe-b02f-02f3864c13bd" />
+
+
+<img width="2086" height="1229" alt="03_distribuicoes_categoricas" src="https://github.com/user-attachments/assets/0cb4f383-3590-4b02-87e4-c7a7e24b82b8" />
+<img width="2083" height="1841" alt="02_distribuicoes_numericas" src="https://github.com/user-attachments/assets/3c499041-bff3-4df5-995a-292298502136" />
+
+<img width="1783" height="1533" alt="05_interacoes" src="https://github.com/user-attachments/assets/130ab796-2737-4705-a7b2-c3618036c7b7" />
+
+
+
+
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
