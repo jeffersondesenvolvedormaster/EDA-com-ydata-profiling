@@ -1,11 +1,11 @@
-# 📊 Análise Exploratória de Dados com YData Profiling
+#  Análise Exploratória de Dados com YData Profiling
 *Dataset: Vendas e Lucros por Segmento, País e Produto*
 
 ### Esse projeto foi construido com o intuito de demonstrar uma Análise exploratória utilizando uma ferramenta que se bem utilizada pode gerar economia de tempo de até 60% em seu projeto EDA, gerando análises exploratórias confiáveis e eficientes.
 Para acessar o projeto em sua plenitude e obter uma experiência surprendente acesse: https://jeffersondesenvolvedormaster.github.io/EDA-com-ydata-profiling/
 </div>
 
-### 🎯 Objetivo
+###  Objetivo
 
 Gerar um relatório completo e automatizado de EDA que inclui:
 - Estatísticas descritivas de todas as variáveis
@@ -16,7 +16,7 @@ Gerar um relatório completo e automatizado de EDA que inclui:
 
 ---
 
-## 📋 Sobre o Dataset
+##  Sobre o Dataset
 
 | Métrica | Valor |
 |---------|-------|
@@ -58,7 +58,7 @@ Gerar um relatório completo e automatizado de EDA que inclui:
 
 ---
 
-## 📈 Resultados
+##  Resultados
 
 ### 1️⃣ Overview Geral
 
@@ -184,7 +184,7 @@ O YData Profiling identifica automaticamente valores ausentes e gera visualizaç
 | Small Business | $4,143,168 |
 | Channel Partners | $1,316,803 |
 | Midmarket | $660,103 |
-| Enterprise | **-$614,545** ⚠️ |
+| Enterprise | **-$614,545**  |
 
 #### Lucro por País
 | País | Lucro Total |
@@ -197,7 +197,7 @@ O YData Profiling identifica automaticamente valores ausentes e gera visualizaç
 
 ---
 
-## ⚠️ Alertas Detectados
+##  Alertas Detectados
 
 O YData Profiling detecta automaticamente potenciais problemas nos dados:
 
@@ -224,7 +224,7 @@ O YData Profiling detecta automaticamente potenciais problemas nos dados:
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 
@@ -280,41 +280,13 @@ EDA-com-ydata-profiling/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Versão | Uso |
-|------------|--------|-----|
-| Python | 3.11+ | Linguagem de programação |
-| YData Profiling | 4.x | Geração automática de relatórios EDA |
-| Pandas | 2.x | Manipulação de dados |
-| Matplotlib | 3.x | Visualizações complementares |
 
 ---
 
-## 📊 Sobre o YData Profiling
 
-O **YData Profiling** é uma biblioteca Python que gera relatórios de análise exploratória de dados automaticamente. Com apenas algumas linhas de código, você obtém:
 
-- ✅ Estatísticas descritivas completas
-- ✅ Análise de correlações
-- ✅ Detecção de valores ausentes
-- ✅ Alertas automáticos
-- ✅ Visualizações interativas
-- ✅ Relatório HTML exportável
-
-### Vantagens
-
-| Aspecto | Benefício |
-|---------|-----------|
-| ⚡ Rapidez | Análise completa em segundos |
-| 🎯 Completude | Cobre todas as dimensões da EDA |
-| 📊 Visualizações | Gráficos interativos prontos |
-| ⚠️ Alertas | Identifica problemas automaticamente |
-| 📄 Exportação | HTML, JSON ou widgets Jupyter |
-
----
-
-## 📌 Insights Principais
+##  Insights Principais
 
 1. **Segmento Government** domina com 43% dos registros e 67% do lucro total
 2. **Enterprise** é o único segmento com **prejuízo** (-$614K)
@@ -334,7 +306,7 @@ O **YData Profiling** é uma biblioteca Python que gera relatórios de análise 
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT.
 
